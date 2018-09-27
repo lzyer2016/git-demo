@@ -14,3 +14,11 @@ add one line
 修改 commit 信息
 
 `git commit --amend "message2"`
+
+标签的使用
+
+`git tag -a v1.0 -m "my version 1.0"`
+
+查看标签
+
+`git show v1.0`
