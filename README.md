@@ -7,3 +7,7 @@ add one line
 
 `git config --list`
 
+查看详细日志状态
+
+`git log --stat`
+
