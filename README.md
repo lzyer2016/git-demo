@@ -11,3 +11,6 @@ add one line
 
 `git log --stat`
 
+修改 commit 信息
+
+`git commit -m "message"`
