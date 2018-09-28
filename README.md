@@ -38,3 +38,17 @@ add one line
 在合并的时候使用 `git merge` , 在主分支上不知道提交的来源，一般在合并是增加参数`--no-ff`  ,
 
 建议使用 `git merge --no-ff `
+
+#### 撤回修改
+
+撤回暂存区修改的内容
+
+`git checkout 文件名`
+
+将添加暂存区的内容移除到工作区
+
+`git reset HEAD 文件名`
+
+#### 查看文件位置的修改
+
+`git blame 文件名`
