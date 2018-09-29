@@ -52,3 +52,21 @@ add one line
 #### 查看文件位置的修改
 
 `git blame 文件名`
+
+####　git rebase 使用
+
+```
+#current  topic
+          A---B---C topic
+         /
+    D---E---F---G master
+```
+
+执行命令
+
+```
+git rebase master 或者 git rebase master topic
+```
+
+
+
