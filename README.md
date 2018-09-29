@@ -53,7 +53,7 @@ add one line
 
 `git blame 文件名`
 
-####　git rebase 使用
+#### git rebase 使用
 
 ```
 #current  topic
@@ -67,6 +67,3 @@ add one line
 ```
 git rebase master 或者 git rebase master topic
 ```
-
-
-
